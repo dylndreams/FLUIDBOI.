@@ -2,9 +2,9 @@
 FLUIDBOI. is a framework that has the absolute basics for a platformer. It uses the engine, ANTIRUINS (by lerabot) which is for the Dreamcast.
 
 # Checklist:
-- Movement
-- Gravity (W.I.P)
-- Simple Collision Detection (W.I.P)
+- [x] Movement
+- [ ] Gravity
+- [ ] Simple Collision Detection
 
 # Getting Started
 Before you start, you'll need:
@@ -20,6 +20,6 @@ You can do this by:
 
 
 OR you can do it by code:
-- code(cd antiruins)
+`cd antiruins` <br />
+git clone
 
-`code(balls)`
