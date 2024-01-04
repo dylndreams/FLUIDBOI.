@@ -12,11 +12,11 @@ Before you start, you'll need:
 - VS CODE (haven't tested other IDEs)
 - Dreamcast (or an emulator)
 
-Navigate your way to the ANTIRUINS folder and paste the framework inside.__
+Navigate your way to the ANTIRUINS folder and paste the framework inside.
 You can do this by:
 - Downloading the folder
 - Unzip it
-- Copy the folder into the ANTIRUINS folder____
+- Copy the folder into the ANTIRUINS folder
 
 
 OR you can do it by code:
