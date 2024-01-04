@@ -19,7 +19,7 @@ You can do this by:
 - Copy the folder into the ANTIRUINS folder
 
 
-OR you can do it by code:
+OR you can do it by code: <br />
 `cd antiruins` <br />
-git clone
+`git clone https://github.com/dylndreams/FLUIDBOI..git` <br />
 
