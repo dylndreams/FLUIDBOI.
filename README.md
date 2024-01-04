@@ -6,7 +6,7 @@ Movement
 Gravity (W.I.P)
 Simple Collision Detection (W.I.P)
 
-#Getting Started
+# Getting Started
 Before you start, you'll need:
 ANTIRUINS by lerabot
 VS CODE (Haven't tested other IDEs)
