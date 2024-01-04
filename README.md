@@ -13,9 +13,9 @@ Before you start, you'll need:
 - Dreamcast (or an emulator)
 
 Navigate your way to the ANTIRUINS folder and paste the framework inside.
-You can do this by:
+You can do this by:\
 - Downloading the folder
 - Unzip it
 - Copy the folder into the ANTIRUINS folder
-OR you can do it by code
-code(cd antiruins)
+OR you can do it by code\
+- code(cd antiruins)
