@@ -1,4 +1,4 @@
-## FLUIDBOI.
+# FLUIDBOI.
 FLUIDBOI. is a framework that has the absolute basics for a platformer. It uses the engine, ANTIRUINS (by lerabot) which is for the Dreamcast. <br />
 
 The current demo includes:
@@ -12,14 +12,14 @@ Before you start, you'll need:
 - VS CODE (haven't tested other IDEs)
 - Dreamcast (or an emulator)
 
-
+## Installing
 Navigate your way to the ANTIRUINS folder and paste the framework inside.
 You can do this by:
 - Downloading the folder
 - Unzip it
 - Copy the folder into the ANTIRUINS folder
 
-
 OR you can do it by code: <br />
 `cd antiruins` <br />
 `git clone https://github.com/dylndreams/FLUIDBOI..git` <br />
+
