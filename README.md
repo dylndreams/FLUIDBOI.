@@ -1,10 +1,12 @@
 # FLUIDBOI.
-FLUIDBOI. is a framework that has the absolute basics for a platformer. It uses the engine, ANTIRUINS (by lerabot) which is for the Dreamcast. <br />
+FLUIDBOI. is a framework that has the absolute basics for a platformer. For 2D, it uses the engine, ANTIRUINS (by lerabot) which is for the Dreamcast. <br />
+For 3D, you might have to wait a little <br />
 
 The current demo includes:
 - [x] Movement
 - [ ] Gravity
 - [ ] Simple Collision Detection
+- [ ] Momentum 
 
 # Getting Started
 Before you start, you'll need:
