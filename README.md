@@ -1,15 +1,8 @@
-# FLUIDBOI.
-FLUIDBOI. is a framework that has the absolute basics for a platformer. For 2D, it uses the engine, ANTIRUINS (by lerabot) which is for the Dreamcast. <br />
-For 3D, you might have to wait a little. <br />
+# PROJ:VIGILANTE.
+This is just me uploading the framework For 3D, it uses the engine, ANTIRUINS (by lerabot) which is for the Dreamcast. <br />
+BUt it might take a while since ANTIRUINS doesn't intend 3D <br />
 
-The current demo includes:
-- [x] Movement
-- [ ] Gravity
-- [ ] Simple Collision Detection
-- [ ] Momentum 
-- [ ] Camera System
-
-The 3D demo will plan to have:
+The demo will plan to have:
 - [ ] Movement
 - [ ] Gravity
 - [ ] Collision
@@ -18,16 +11,11 @@ The 3D demo will plan to have:
 
 # Getting Started
 Before you start, you'll need:
-- ANTIRUINS by lerabot (this is what the 2D framework uses)
+- ANTIRUINS by lerabot 
 - VS CODE (haven't tested other IDEs)
 - Dreamcast (or an emulator)
-- KOS and it's enviroment (for the 3D framework)
+- a couple libraries (zed.lua, bump-3dpd.lua, etc.)
 
 ## Installing
-Navigate your way to the ANTIRUINS folder and paste the framework inside.
-You can do this by:
-- Downloading the folder
-- Unzip it
-- Copy the folder into the ANTIRUINS folder
-
+Navigate your way to the ANTIRUINS gitlab for further instructions
 
