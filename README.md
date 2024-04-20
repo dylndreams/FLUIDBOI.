@@ -17,5 +17,6 @@ Before you start, you'll need:
 - a couple libraries (zed.lua, bump-3dpd.lua, etc.)
 
 ## Installing
-Navigate your way to the ANTIRUINS gitlab for further instructions
+Navigate your way to the ANTIRUINS gitlab to learn how to add the <br/> 
+framework as a project and how to install.
 
