@@ -1,6 +1,6 @@
 # PROJ:VIGILANTE.
 This is just me uploading the framework For 3D, it uses the engine, ANTIRUINS (by lerabot) which is for the Dreamcast. <br />
-BUt it might take a while since ANTIRUINS doesn't intend 3D <br />
+But it might take a while since ANTIRUINS doesn't intend 3D <br />
 
 The demo will plan to have:
 - [ ] Movement
@@ -8,6 +8,7 @@ The demo will plan to have:
 - [ ] Collision
 - [ ] Smart Auto Camera
 - [ ] Momentum
+- [ ] Possible ARG 
 
 # Getting Started
 Before you start, you'll need:
